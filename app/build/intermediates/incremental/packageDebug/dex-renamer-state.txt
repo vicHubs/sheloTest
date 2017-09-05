@@ -1,0 +1,4 @@
+#Mon Sep 04 15:34:33 CDT 2017
+base.0=C\:\\Users\\Victor\\AndroidStudioProjects\\ViviendaEstudiantil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Victor\\AndroidStudioProjects\\ViviendaEstudiantil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
