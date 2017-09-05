@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="663f2405-f9f7-49df-ae55-e733df448bfe" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/viviendaestudiantil/CardObject.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/viviendaestudiantil/CardObject.java" />
     </list>
     <ignored path="ViviendaEstudiantil.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,8 +75,8 @@
       <file leaf-file-name="CardObject.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/viviendaestudiantil/CardObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="81" column="53" selection-start-line="81" selection-start-column="53" selection-end-line="81" selection-end-column="53" />
+            <state relative-caret-position="152">
+              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -2012,7 +2013,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/drawable-v21/ripple_with_border.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/viviendaestudiantil/adapter/NavigationDrawerAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/drawer_list_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/viviendaestudiantil/CardObject.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/viviendaestudiantil/Constants.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" />
@@ -2022,6 +2022,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/viviendaestudiantil/TransitionFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/viviendaestudiantil/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_navigation_drawer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/viviendaestudiantil/CardObject.java" />
       </list>
     </option>
   </component>
@@ -3058,8 +3059,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/viviendaestudiantil/CardObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="81" column="53" selection-start-line="81" selection-start-column="53" selection-end-line="81" selection-end-column="53" />
+        <state relative-caret-position="152">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>

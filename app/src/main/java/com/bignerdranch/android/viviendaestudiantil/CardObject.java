@@ -75,6 +75,7 @@ public class CardObject {
         };
     }
 
+
     public static List<CardObject> getSheloData(){
         List<CardObject> list = new ArrayList<>();
         int[] images = getSheloImages();
