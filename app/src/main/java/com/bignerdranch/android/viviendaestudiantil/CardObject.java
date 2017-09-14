@@ -15,6 +15,7 @@ public class CardObject {
     String description;
 
 
+
     public int getImage() {
         return image;
     }
